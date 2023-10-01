@@ -26,7 +26,7 @@ const displayChart = (totalInterestPayableValue) => {
             {
 
                 data: [totalInterestPayableValue, loanAmount],
-                backgroundColor: ["#e63946", "#14213d"],
+                backgroundColor: ["#008080", "#f85b75"],
                 borderWidth: 0,
             },
 
