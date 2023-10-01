@@ -6,7 +6,7 @@
     box-shadow: 0 12px 50px -11px rgba(red, green, blue, alpha)
     (0, 0, 0, 0.2);
     border-radius: 8px;
-    color: #14213d;
+    color: #008080;
     overflow: hidden;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .loan-calculator .top {
-    background: #14213d;
+    background: #008080;
     color: #fff;
     padding: 32px;
 }
@@ -74,7 +74,7 @@
 }
 
 .loan-calculator .calculate-btn {
-    background: #e63946;
+    background: #f85b75;
     color: #fff;
     border: none;
     padding: 8px 32px;
